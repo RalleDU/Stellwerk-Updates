@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "erzeugt": "2026-10-24T01:48:48Z",
+ "commit": "4cba538",
+ "anlagen": {
+  "dortmund-hbf": {
+   "name": "Dortmund Hbf",
+   "stand": "2026-10-24T01:48:48Z",
+   "commit": "4cba538",
+   "programm_min": "0.7.7",
+   "datei": "dortmund-hbf_20261024T014848Z.stwpak",
+   "groesse": 7959568,
+   "sha256": "2481247b1a0cd7ced1819f4d26bd155c88b5dc3782ef889a3b57a5fc2f28414b",
+   "inhalt": "a8ac7821b6cbebe7bcedb1884d1ae22f2147ffffa2ee8d20fc08e8db3646bfea",
+   "quelle": "8f4b54022eea0ea498bbfd445b5a90200fd36effbd59bd34bd672d299eaa9aff"
+  },
+  "duesseldorf-hbf": {
+   "name": "Düsseldorf Hbf",
+   "stand": "2026-10-24T01:48:48Z",
+   "commit": "4cba538",
+   "programm_min": "0.7.7",
+   "datei": "duesseldorf-hbf_20261024T014848Z.stwpak",
+   "groesse": 8241971,
+   "sha256": "b70a70f3e8c6b49e4531b6869c85025070c8808746421522bfbfb589745dfc1f",
+   "inhalt": "345d6839c8c622c363f927f68b3da483b48e19cd776965a6cd66cdc9821d0d72",
+   "quelle": "aed2295a7cdd9ac76743152006908cbaa3a72d667990857f0d51a40383963d3c"
+  },
+  "duesseldorf-unterrath": {
+   "name": "Düsseldorf-Unterrath",
+   "stand": "2026-10-24T01:48:48Z",
+   "commit": "4cba538",
+   "programm_min": "0.7.7",
+   "datei": "duesseldorf-unterrath_20261024T014848Z.stwpak",
+   "groesse": 7252944,
+   "sha256": "65ad9ef9084fa5ca30c4e7f0e198fea3d95206f5daf9a0b462799cf5f408c9e0",
+   "inhalt": "fc104b786b1e9cdc9f16437e90b99e426feacd6214b46e82dce696484dfc1cd8",
+   "quelle": "1a4e1495200b30adb61cca2ed89a855251bb742c1cb6e4e20d6fe86619d76e28"
+  },
+  "hamburg-hbf": {
+   "name": "Hamburg Hbf",
+   "stand": "2026-10-24T01:48:48Z",
+   "commit": "4cba538",
+   "programm_min": "0.7.7",
+   "datei": "hamburg-hbf_20261024T014848Z.stwpak",
+   "groesse": 1476891,
+   "sha256": "59a6053b1569caaf169a4b05a9ad1e0a9a0845cf4b4a8fbac29d2c248f073ecd",
+   "inhalt": "39e65e0c5aa98897918965a5a6f02a20b7411656bdd9e2710e150ac10702fc69",
+   "quelle": "99c0f6db77a36335129791306d6ff27a0294fe6e1c98e624a37d3b76e95a6817"
+  }
+ }
+}
