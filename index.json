@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "erzeugt": "2026-10-30T21:50:32Z",
+ "commit": "7050c53",
+ "anlagen": {
+  "dortmund-hbf": {
+   "name": "Dortmund Hbf",
+   "stand": "2026-10-30T21:50:32Z",
+   "commit": "7050c53",
+   "programm_min": "0.8.1",
+   "datei": "dortmund-hbf_20261030T215032Z.stwpak",
+   "groesse": 8747616,
+   "sha256": "01ae388906650c00667461a82201b1578ccffd2c054be32bb13300b7e56639b6",
+   "inhalt": "9d455a3f7adc0c6cd57dd2ee736cc9a687112b7c5af4ede7e98da37556bb4253",
+   "quelle": "c6aaa1c8b54fca412390d1fbdc26ff0137974d23e2c3925ac2f5b7c892a0215a"
+  },
+  "duesseldorf-hbf": {
+   "name": "Düsseldorf Hbf",
+   "stand": "2026-10-30T21:50:32Z",
+   "commit": "7050c53",
+   "programm_min": "0.8.1",
+   "datei": "duesseldorf-hbf_20261030T215032Z.stwpak",
+   "groesse": 8332559,
+   "sha256": "12c45e6f9b948112c4cb1c9ee728fbb023a2e32f888d54d804f269cdf6d17d16",
+   "inhalt": "84db75a31337bad529cd968087ead2ec19489d312906d0f3987ce3931914e9fe",
+   "quelle": "cfe27d98ae01a4bd43a90d63246225c25b517d2be12880adc7fa585df78deaca"
+  },
+  "duesseldorf-unterrath": {
+   "name": "Düsseldorf-Unterrath",
+   "stand": "2026-10-30T21:50:32Z",
+   "commit": "7050c53",
+   "programm_min": "0.8.1",
+   "datei": "duesseldorf-unterrath_20261030T215032Z.stwpak",
+   "groesse": 7258173,
+   "sha256": "87216873748836f5b8f7659686ef0480e5b79965cf6d8d7bc3024d82d5a595fc",
+   "inhalt": "e97d85c83a6b1e16c520dd7f36237ea78a81f303878462a8b843b962b490165a",
+   "quelle": "e49455830d483d3cf5ec6fb26dff5a9f26caefce6a10adf5e6674f5c2dfc6e98"
+  },
+  "hamburg-hbf": {
+   "name": "Hamburg Hbf",
+   "stand": "2026-10-25T22:33:03Z",
+   "commit": "92cf862",
+   "programm_min": "0.7.7",
+   "datei": "hamburg-hbf_20261025T223303Z.stwpak",
+   "groesse": 1457176,
+   "sha256": "2c8c9e30c048dd81a0f1f3456ae4e6b8063ac4717c7b442daf1dd9adecdea6b3",
+   "inhalt": "c173868ebb348a70b115d386495777f45f5743256e6ea9a22b47d1070f1c4d67",
+   "quelle": "89c08692ec9bd71982d55425a4423e90e255123e0ab312e401e8f0183c4be2b1"
+  }
+ },
+ "schluessel": "c28d2bb3d27955ee"
+}
