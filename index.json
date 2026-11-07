@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "erzeugt": "2026-11-07T00:27:16Z",
+ "commit": "fa717d7c",
+ "anlagen": {
+  "dortmund-hbf": {
+   "name": "Dortmund Hbf",
+   "stand": "2026-11-07T00:27:16Z",
+   "commit": "fa717d7c",
+   "programm_min": "0.9.3",
+   "datei": "dortmund-hbf_20261107T002716Z.stwpak",
+   "groesse": 8810551,
+   "sha256": "8b2cf959d27c5917ab6f3b24afd56989ebe54a87a82854c188fc2740e4062a77",
+   "inhalt": "17c65dd231e272494a162b16a6e9c1f8170c66720b013af8d30dcd4a498bb48f",
+   "quelle": "5e26ce7b5af5b27215444fdca24635780609a198b0276ab3f2e4725752fda155"
+  },
+  "duesseldorf-hbf": {
+   "name": "Düsseldorf Hbf",
+   "stand": "2026-11-07T00:27:16Z",
+   "commit": "fa717d7c",
+   "programm_min": "0.9.3",
+   "datei": "duesseldorf-hbf_20261107T002716Z.stwpak",
+   "groesse": 8688859,
+   "sha256": "6efdd6b6f0a2217b37b844702492d64f6293005b462358ef0f9db68576b4807b",
+   "inhalt": "531c1483ebf87dee78dac9cf23acc581a4c36dc708020fa0f5ffcb079863b02d",
+   "quelle": "dcba69e948c1eb7463538493d64ccbd2fb848abd16d6b1766a59a78d9a8d9fd1"
+  },
+  "duesseldorf-unterrath": {
+   "name": "Düsseldorf-Unterrath",
+   "stand": "2026-11-07T00:27:16Z",
+   "commit": "fa717d7c",
+   "programm_min": "0.9.3",
+   "datei": "duesseldorf-unterrath_20261107T002716Z.stwpak",
+   "groesse": 7328242,
+   "sha256": "041438b2f23b553a9961d993bbb71c0e2c5d6d0727c673b8d6b5aa5f75ce6c0a",
+   "inhalt": "1ed4c0e01feb0593e4cca6644d246b78ba7b6ef577917556f460800adba4f845",
+   "quelle": "05f9824172e651603e960d1f85e31114b3e463bd7c1a9aaca45642c483aa744f"
+  },
+  "hamburg-hbf": {
+   "name": "Hamburg Hbf",
+   "stand": "2026-11-07T00:27:16Z",
+   "commit": "fa717d7c",
+   "programm_min": "0.9.3",
+   "datei": "hamburg-hbf_20261107T002716Z.stwpak",
+   "groesse": 1490305,
+   "sha256": "5770c8a42e054c57255723f367d6ac0b4ada16072394830c932613318148e201",
+   "inhalt": "88b6d61bab05aeb5d73fca03c3a80154d1ab951f2b849df1a2346966b70798d2",
+   "quelle": "d386f3107763c313550841dacd087591ecb8334e2bea310e5d2507ab7f756ec3"
+  }
+ },
+ "schluessel": "c28d2bb3d27955ee"
+}
