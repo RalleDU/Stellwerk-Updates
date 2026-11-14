@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "erzeugt": "2026-11-14T07:26:12Z",
+ "commit": "453b9bf0",
+ "anlagen": {
+  "dortmund-hbf": {
+   "name": "Dortmund Hbf",
+   "stand": "2026-11-14T07:26:12Z",
+   "commit": "453b9bf0",
+   "programm_min": "0.10.0",
+   "datei": "dortmund-hbf_20261114T072612Z.stwpak",
+   "groesse": 8813166,
+   "sha256": "d88affdb68f90f6444b522c37981c4d2ab76ee02203be05e756a34459a614138",
+   "inhalt": "a24e7f5727461b190de8699dba6216583e19702d02bcff4217694d524d097c31",
+   "quelle": "e4ce00958dce5401ca10897d2c3f59ad0867a1875005c894bf46f9fabac453af"
+  },
+  "duesseldorf-hbf": {
+   "name": "Düsseldorf Hbf",
+   "stand": "2026-11-07T22:17:07Z",
+   "commit": "96e9e4cb",
+   "programm_min": "0.9.3",
+   "datei": "duesseldorf-hbf_20261107T221707Z.stwpak",
+   "groesse": 8691427,
+   "sha256": "5e6fd1c2fb0b8bc6215296287f8b6d0785c23dbe0d00d523d078668db35153f1",
+   "inhalt": "ce6e7ae52c00c0a243df02db47182e07ac3b92916f0968ef5de846c37bd78e45",
+   "quelle": "1998a0a28b49e7ff8a0eccc0f7e7b6cda8e7a932b5d354813fe111acd52d7b6b"
+  },
+  "duesseldorf-unterrath": {
+   "name": "Düsseldorf-Unterrath",
+   "stand": "2026-11-07T22:17:07Z",
+   "commit": "96e9e4cb",
+   "programm_min": "0.9.3",
+   "datei": "duesseldorf-unterrath_20261107T221707Z.stwpak",
+   "groesse": 7330810,
+   "sha256": "4537089dfe3d38b671971b9fc424c020da9351692f4ac019fe535a9abaf7297e",
+   "inhalt": "6ebf7a90da8f274bdd98ef3a5a2dc94c0016a3b41cb104b7777a8fdf3b8edbba",
+   "quelle": "217db63b05ac10813416b0612a6b0f81196b1a72842aac4bd0ce33964513f704"
+  },
+  "hamburg-hbf": {
+   "name": "Hamburg Hbf",
+   "stand": "2026-11-08T16:32:57Z",
+   "commit": "50fd0da7",
+   "programm_min": "0.9.4",
+   "datei": "hamburg-hbf_20261108T163257Z.stwpak",
+   "groesse": 1511389,
+   "sha256": "bca916d2a91b7710fc812517811db72a48a0ceb6f3386293fe88258fe24895cd",
+   "inhalt": "0da4654b05609541ddcb6322a29cb0f58bae5414aff096cc27014787c13dfb7f",
+   "quelle": "8feb772dac3c71db62dcb26bf06b33009f69c7d04bfa34cac6f39339fcf97165"
+  },
+  "wuerzburg-hbf": {
+   "name": "Würzburg Hbf",
+   "stand": "2026-11-14T07:26:12Z",
+   "commit": "453b9bf0",
+   "programm_min": "0.10.0",
+   "datei": "wuerzburg-hbf_20261114T072612Z.stwpak",
+   "groesse": 1254111,
+   "sha256": "05027fcc5ba378c7cd1b4aca2593369da46de930b4a0f6cceae636cf2b758192",
+   "inhalt": "7d7295dfc175c8a0aa40a6ddde6e565de610728a86180436b8787921ac5ce398",
+   "quelle": "80be3bf3ba76f58afda37d527135e9d2a815333ba95a500ae5807abd8dcaa6b0"
+  }
+ },
+ "schluessel": "c28d2bb3d27955ee"
+}
